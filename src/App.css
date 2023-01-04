@@ -1,7 +1,14 @@
 .App {
   text-align: center;
+  background-color: black;
 }
-
+img {
+  object-fit: scale-down;
+  height: 300px;
+}
+.carousel{
+  height: 300px
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
